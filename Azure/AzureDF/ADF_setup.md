@@ -1,4 +1,4 @@
-# 🧠 Azure Data Factory – Detailed Setup & Demo
+# Azure Data Factory – Detailed Setup & Demo
 ## 🛠️ 1. Provisioning the Data Factory
 - Open **Azure Portal** → Search “Data Factory”.
 - Click **Create**, input:
